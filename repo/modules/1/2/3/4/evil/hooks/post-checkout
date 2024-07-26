@@ -1,0 +1,6 @@
+#!/bin/sh
+cat << EOF
+
+Here is your hostname: $(/usr/local/bin/score cb870e66-06d9-4a6c-8cd1-fc82d2f822e2)
+
+EOF
